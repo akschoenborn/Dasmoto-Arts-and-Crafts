@@ -1,4 +1,4 @@
-header{
+header {
     text-align: center;
     color: khaki;
     font-family: Helvetica;
@@ -35,11 +35,11 @@ p {
     font-family: Helvetica;
 }
 
-h2{
+h2 {
     font-family: Helvetica;
 }
 
-.deal{
+.deal {
     color:blue;
     font-family: Helvetica;
     font-weight: bold;
